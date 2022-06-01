@@ -1,0 +1,14 @@
+# test_name gen_line_number gen_line_content
+0-01	  2	manual sample.txt
+1-01	  6	gencode subtask1
+2-01	 10	gencode random 5
+2-02	 11	gencode nasty 30
+2-03	 12	gencode nasty 58
+2-04	 13	gencode random 12
+2-05	 14	gencode random 15
+2-06	 15	gencode random 18
+2-07	 16	gencode consecutive 576460752303423488
+2-08	 17	gencode consecutive 999999999999999901
+2-09	 18	manual largeprimes.txt
+2-10	 19	gencode composite
+2-11	 20	gencode maxbase
