@@ -1,0 +1,11 @@
+{
+  "name": "game",
+  "code": "game",
+  "title": "Game",
+  "memory_limit": 256,
+  "time_limit": 2.0,
+  "type": "Communication",
+  "num_processes": 1,
+  "grader_name": "stub",
+  "description": "Game"
+}

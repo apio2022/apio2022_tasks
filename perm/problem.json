@@ -1,0 +1,9 @@
+{
+  "name": "perm",
+  "code": "perm",
+  "title": "Permutation",
+  "memory_limit": 256,
+  "time_limit": 1.0,
+  "type": "Batch",
+  "description": "Permutation"
+}

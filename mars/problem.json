@@ -1,0 +1,11 @@
+{
+  "name": "mars",
+  "code": "mars",
+  "title": "Mars",
+  "memory_limit": 256,
+  "time_limit": 3.0,
+  "type": "Communication",
+  "num_processes": 8,
+  "grader_name": "stub",
+  "description": "Mars"
+}

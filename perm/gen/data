@@ -1,0 +1,20 @@
+@subtask samples
+manual sample.txt
+
+@subtask n
+@include samples
+gencode subtask1
+
+@subtask full
+@include n
+gencode random 5
+gencode nasty 30
+gencode nasty 58
+gencode random 12
+gencode random 15
+gencode random 18
+gencode consecutive 576460752303423488
+gencode consecutive 999999999999999901
+manual largeprimes.txt
+gencode composite
+gencode maxbase

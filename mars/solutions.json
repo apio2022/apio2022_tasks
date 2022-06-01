@@ -1,0 +1,9 @@
+{
+	"mars.cpp": {
+		"verdict": "model_solution"
+	},
+	"nothing.cpp": {
+		"verdict": "incorrect"
+	}
+}
+

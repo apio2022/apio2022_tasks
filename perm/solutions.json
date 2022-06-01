@@ -1,0 +1,18 @@
+{
+	"main_author.cpp": {
+		"verdict": "model_solution"
+	},
+	"subtask1.cpp": {
+		"verdict": "incorrect",
+		"except": {
+			"n": "correct"
+		}
+	},
+	"badawy_log2.cpp":{
+		"verdict": "correct"
+	},
+	"badawy_2log.cpp":{
+		"verdict": "correct"
+	}
+}
+

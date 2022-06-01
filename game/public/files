@@ -1,0 +1,11 @@
+public cpp/compile_cpp.sh
+public cpp/PROBLEM_NAME_PLACE_HOLDER.cpp
+grader cpp/PROBLEM_NAME_PLACE_HOLDER.h
+public cpp/grader.cpp
+
+public examples/sample-01.in
+public examples/sample-01.out
+public examples/sample-02.in
+public examples/sample-02.out
+public examples/sample-03.in
+public examples/sample-03.out

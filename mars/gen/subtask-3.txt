@@ -1,0 +1,70 @@
+random_cells 5 50
+random_cells 5 50 aa
+random_cells 5 50 bb
+random_cells 5 50 cc
+random_cells 5 50 dd
+random_cells 5 50 ee
+random_cells 5 50 ff
+random_cells 5 50 gg
+center_bfs 6 0
+center_bfs 6 1
+center_bfs 6 2
+concentric_squares 6 2
+concentric_squares 6 3
+concentric_triangles 6 0
+concentric_triangles 6 1
+connected_square_regions 6 3 0
+connected_square_regions 6 3 100
+connected_square_regions 6 3 50
+delete_lines 6 1 100
+delete_lines 6 1 70
+delete_lines 6 2 100
+delete_lines 6 2 70
+delete_lines 6 3 100
+delete_lines 6 4 100
+delete_lines 6 5 100 aa
+delete_lines 6 6 100 aa
+diagonal_stairs 6 0
+diagonal_stairs 6 1
+horizontal_stripes 6 0
+horizontal_stripes 6 1
+one_spiral 6 0
+one_spiral 6 7
+random_cells 6 50
+random_cells 6 50 aa
+random_cells 6 50 bb
+random_cells 6 50 cc
+random_cells 6 50 dd
+random_cells 6 50 ee
+random_cells 6 50 ff
+random_dfs 6 0
+random_dfs 6 10
+random_dfs 6 2
+random_dfs 6 4
+random_dfs 6 6
+random_dfs 6 8
+random_disjoint_walks 6 10 20
+random_disjoint_walks 6 10 20 aa
+random_disjoint_walks 6 3 20
+random_disjoint_walks 6 4 20
+random_disjoint_walks 6 5 20
+random_disjoint_walks 6 6 20
+random_disjoint_walks 6 8 20
+random_dsu 6 0
+random_dsu 6 5
+random_dsu 6 10
+random_dsu 6 15
+random_dsu 6 20
+random_dsu 6 25
+random_rectangles 6 1 13 1 13
+random_rectangles 6 1 5 1 5
+random_square_shapes 6 3
+random_square_shapes 6 4 aa
+random_square_shapes 6 4 bb
+random_square_shapes 6 4 cc
+single_cells 6 0
+single_cells 6 1
+snake 6 0
+snake 6 1
+vertical_stripes 6 0
+vertical_stripes 6 1

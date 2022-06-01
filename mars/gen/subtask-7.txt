@@ -1,0 +1,120 @@
+random_cells 13 100
+random_cells 13 50
+random_cells 13 50 aa
+random_cells 13 50 bb
+random_cells 13 50 cc
+random_cells 13 50 dd
+random_cells 13 50 ee
+random_cells 13 50 ff
+random_cells 13 50 gg
+random_cells 13 50 hh
+center_bfs 14 0
+center_bfs 14 1
+center_bfs 14 10
+center_bfs 14 2
+center_bfs 14 3
+center_bfs 14 4
+center_bfs 14 5
+concentric_squares 14 2
+concentric_squares 14 3
+concentric_triangles 14 0
+concentric_triangles 14 1
+connected_square_regions 14 3 100
+connected_square_regions 14 3 50
+connected_square_regions 14 3 75
+connected_square_regions 14 4 100
+connected_square_regions 14 4 50
+connected_square_regions 14 4 75
+connected_square_regions 14 5 100
+connected_square_regions 14 5 50
+connected_square_regions 14 5 75
+delete_lines 14 1 100
+delete_lines 14 10 100
+delete_lines 14 2 100
+delete_lines 14 20 100
+delete_lines 14 20 100 aa
+delete_lines 14 20 100 bb
+delete_lines 14 20 100 cc
+delete_lines 14 20 100 dd
+delete_lines 14 3 100
+delete_lines 14 3 60
+delete_lines 14 4 100
+delete_lines 14 5 100
+delete_lines 14 6 60
+delete_lines 14 6 60 aa
+delete_lines 14 6 60 bb
+delete_lines 14 6 60 cc
+delete_lines 14 6 60 dd
+diagonal_stairs 14 0
+diagonal_stairs 14 1
+horizontal_stripes 14 0
+horizontal_stripes 14 1
+one_spiral 14 0
+one_spiral 14 7
+random_cells 14 100
+random_cells 14 20
+random_cells 14 40
+random_cells 14 50
+random_cells 14 50 aa
+random_cells 14 50 bb
+random_cells 14 50 cc
+random_cells 14 50 dd
+random_cells 14 50 ee
+random_cells 14 50 ff
+random_cells 14 50 gg
+random_cells 14 50 hh
+random_cells 14 60
+random_cells 14 80
+random_dfs 14 0
+random_dfs 14 1
+random_dfs 14 10
+random_dfs 14 20
+random_dfs 14 30
+random_dfs 14 40
+random_dfs 14 5
+random_dfs 14 50
+random_dfs 14 60
+random_dfs 14 70
+random_dfs 14 80
+random_disjoint_walks 14 10 100
+random_disjoint_walks 14 15 100
+random_disjoint_walks 14 20 100
+random_disjoint_walks 14 25 100
+random_disjoint_walks 14 3 100
+random_disjoint_walks 14 30 100
+random_disjoint_walks 14 35 100
+random_disjoint_walks 14 4 100
+random_disjoint_walks 14 40 100
+random_disjoint_walks 14 45 100
+random_disjoint_walks 14 5 100
+random_disjoint_walks 14 50 100
+random_disjoint_walks 14 55 100
+random_disjoint_walks 14 60 100
+random_dsu 14 0
+random_dsu 14 10
+random_dsu 14 20
+random_dsu 14 20 aa
+random_dsu 14 20 bb
+random_dsu 14 20 cc
+random_dsu 14 30
+random_dsu 14 30 aa
+random_dsu 14 30 bb
+random_dsu 14 30 cc
+random_dsu 14 5
+random_dsu 14 50
+random_rectangles 14 1 10 1 10
+random_rectangles 14 1 15 1 15
+random_rectangles 14 1 29 1 29
+random_rectangles 14 1 5 1 5
+random_square_shapes 14 11
+random_square_shapes 14 4
+random_square_shapes 14 5
+random_square_shapes 14 6
+random_square_shapes 14 7
+random_square_shapes 14 8
+single_cells 14 0
+single_cells 14 1
+snake 14 0
+snake 14 1
+vertical_stripes 14 0
+vertical_stripes 14 1

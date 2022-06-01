@@ -1,0 +1,118 @@
+@subtask samples
+manual sample-01.in
+manual sample-02.in
+
+@subtask subtask1
+@include samples
+manual 1-1.in
+manual 1-2.in
+manual 1-3.in
+manual 1-4.in
+manual 1-5.in
+manual 1-6.in
+
+@subtask subtask2
+@include subtask1
+manual 2-1.in
+manual 2-2.in
+manual 2-3.in
+manual 2-4.in
+manual 2-5.in
+manual 2-6.in
+manual 2-7.in
+
+@subtask subtask3
+@include subtask2
+manual 3-1.in
+manual 3-2.in
+manual 3-3.in
+manual 3-4.in
+manual 3-5.in
+manual 3-6.in
+manual 3-7.in
+
+@subtask subtask4
+@include subtask3
+manual 4-1.in
+manual 4-2.in
+manual 4-3.in
+manual 4-4.in
+manual 4-5.in
+manual 4-6.in
+manual 4-7.in
+manual 4-8.in
+
+@subtask subtask5
+@include subtask4
+manual 5-1.in
+manual 5-2.in
+manual 5-3.in
+manual 5-4.in
+manual 5-5.in
+manual 5-6.in
+manual 5-7.in
+manual 5-8.in
+
+@subtask subtask6
+@include subtask5
+manual 6-1.in
+manual 6-2.in
+manual 6-3.in
+manual 6-4.in
+manual 6-5.in
+manual 6-6.in
+manual 6-7.in
+manual 6-8.in
+
+@subtask subtask7
+@include subtask6
+manual 7-1.in
+manual 7-2.in
+manual 7-3.in
+manual 7-4.in
+manual 7-5.in
+manual 7-6.in
+manual 7-7.in
+manual 7-8.in
+manual 7-9.in
+manual 7-10.in
+manual 7-11.in
+manual 7-12.in
+
+@subtask subtask8
+@include subtask7
+manual 8-1.in
+manual 8-2.in
+manual 8-3.in
+manual 8-4.in
+manual 8-5.in
+manual 8-6.in
+manual 8-7.in
+manual 8-8.in
+manual 8-9.in
+manual 8-10.in
+manual 8-11.in
+manual 8-12.in
+
+@subtask subtask9
+@include subtask8
+manual 9-1.in
+manual 9-2.in
+manual 9-3.in
+manual 9-4.in
+manual 9-5.in
+manual 9-6.in
+manual 9-7.in
+manual 9-8.in
+
+@subtask subtask10
+@include subtask9
+manual 10-1.in
+manual 10-2.in
+manual 10-3.in
+manual 10-4.in
+manual 10-5.in
+manual 10-6.in
+manual 10-7.in
+manual 10-8.in
+
