@@ -31,6 +31,7 @@
 *.out
 # Except public directory
 !/public/**/*.out
+!/tests/*.out
 
 # Java.gitignore
 
